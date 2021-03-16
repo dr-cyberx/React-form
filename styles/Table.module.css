@@ -1,0 +1,15 @@
+.Mytable{
+    /* border: 1px solid red; */
+    margin-top: 15px;
+    padding: 5px;
+    background-color: #d6dadf;
+}
+.Mytable p{
+    margin: 0px;
+    font-weight: 500;
+}
+.rightData{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

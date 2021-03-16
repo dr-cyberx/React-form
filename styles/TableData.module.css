@@ -1,0 +1,24 @@
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: #f1f3f4;
+}
+.btn{
+    border: none;
+    width: auto;
+    height: auto;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+    background-color: #081d2e;
+}

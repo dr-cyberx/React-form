@@ -1,0 +1,30 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.pagestyle{
+  margin: 20px;
+}
+.headerpart{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.headerpart h2{
+  color : #141922;
+  margin: 0;
+}
+.headerpart button{
+  border: none;
+  font-size: 16px;
+  color: grey;
+  padding: 1px 7px;
+  margin-right: 6px;
+  outline: none;
+  background-color: rgb(218, 218, 218);
+}
